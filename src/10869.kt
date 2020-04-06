@@ -1,6 +1,6 @@
 import java.util.*
 
-fun main(){
+/*fun main(){
     val a:Int
     val b:Int
     val scan=Scanner(System.`in`)
@@ -13,3 +13,5 @@ fun main(){
     println(a/b)
     println(a%b)
 }
+
+ */
