@@ -1,4 +1,4 @@
-fun main(){
+/*fun main(){
     println(
         "\\    /\\\n" +
         " )  ( ')\n" +
@@ -7,3 +7,5 @@ fun main(){
     )
 
 }
+
+ */

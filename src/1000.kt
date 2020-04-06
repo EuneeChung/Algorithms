@@ -1,6 +1,8 @@
 import java.util.*
 
+/*
 fun main(){
+
     val A: Byte
     val B: Byte
 
@@ -10,3 +12,4 @@ fun main(){
     println(A+B)
 
 }
+ */
