@@ -39,6 +39,8 @@ BOJ Algorithm exercise using Kotlin
 
 - [#1158 요세푸스 문제](https://github.com/EuneeChung/BOJ_Algorithm/commit/673c7b0dff7bf96acbb428f8ad8bb020546866ff)
 
+- [#10866 덱](https://github.com/EuneeChung/BOJ_Algorithm/commit/fe06074c907295a6adea5d7489758275a2ce3a1c)
+
 
   
 
