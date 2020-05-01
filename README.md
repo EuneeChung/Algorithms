@@ -41,6 +41,10 @@ BOJ Algorithm exercise using Kotlin
 
 - [#10866 덱](https://github.com/EuneeChung/BOJ_Algorithm/commit/fe06074c907295a6adea5d7489758275a2ce3a1c)
 
+- [#10808 알파벳 개수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10808.kt)
+
+- [#10809 알파벳 찾기](https://github.com/EuneeChung/BOJ_Algorithm/commit/e04ec950a991e7e2e3b20fcb75638d82fd519124)
+
 
   
 
