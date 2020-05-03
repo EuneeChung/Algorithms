@@ -45,6 +45,8 @@ BOJ Algorithm exercise using Kotlin
 
 - [#10809 알파벳 찾기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10809.kt)
 
+- [#10820 문자열 분석](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10820.kt)
+
 
   
 
