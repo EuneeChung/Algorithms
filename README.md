@@ -47,6 +47,8 @@ BOJ Algorithm exercise using Kotlin
 
 - [#10820 문자열 분석](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10820.kt)
 
+- [#2743 단어 길이 재기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/2743.kt)
+
 
   
 
