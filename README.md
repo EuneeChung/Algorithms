@@ -53,6 +53,9 @@ BOJ Algorithm exercise using Kotlin
 
 - [#10824 네 수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10824.kt)
 
+- [#11656 접미사 배열](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11656.kt)
+
+
   
 
 
