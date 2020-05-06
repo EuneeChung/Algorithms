@@ -56,23 +56,9 @@ BOJ Algorithm exercise using Kotlin
 - [#11656 접미사 배열](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11656.kt)
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### 3. 다이나믹 프로그래밍 1
+- [#1463 1로 만들기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/1463.kt)
+
 
 #### 4. 수학 1
 
