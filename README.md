@@ -65,6 +65,7 @@ ID: chungee375
 
 - [#11727 2xn 타일링 2](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11727.kt)
 - [#9095 1,2,3 더하기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/9095.kt)
+- [#11052 카드 구매하기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11052.kt)
 
 #### 4. 수학 1
 
