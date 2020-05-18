@@ -66,6 +66,11 @@ ID: chungee375
 - [#11727 2xn 타일링 2](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11727.kt)
 - [#9095 1,2,3 더하기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/9095.kt)
 - [#11052 카드 구매하기](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11052.kt)
+- [#10844 쉬운 계단 수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/10844.kt)
+  / [풀이보러가기](https://www.notion.so/BOJ-10844-cc25fe45f11f4a4f8721afbec7d0f994)
+  
+- [#11057 오르막 수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11057.kt)  / [풀이보러가기](https://www.notion.so/BOJ-11057-e083c852a9f849d98c7a01c60df53298)
+  
 
 #### 4. 수학 1
 
