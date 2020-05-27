@@ -71,6 +71,8 @@ ID: chungee375
   
 - [#11057 오르막 수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/11057.kt)  / [풀이보러가기](https://www.notion.so/BOJ-11057-e083c852a9f849d98c7a01c60df53298)
   
+- [#2193 이친수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/2193.kt)
+  / [풀이보러가기](https://www.notion.so/BOJ-2193-a6dacfb474174f2fb9b16eae8c1ae63e)
 
 #### 4. 수학 1
 
