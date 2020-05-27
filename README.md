@@ -73,6 +73,9 @@ ID: chungee375
   
 - [#2193 이친수](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/2193.kt)
   / [풀이보러가기](https://www.notion.so/BOJ-2193-a6dacfb474174f2fb9b16eae8c1ae63e)
+  
+- [#9465 스티커](https://github.com/EuneeChung/BOJ_Algorithm/blob/master/src/9465.kt)
+  / [풀이보러가기](https://www.notion.so/BOJ-9465-49abe0305d304353856c3043672a7bd3)
 
 #### 4. 수학 1
 
