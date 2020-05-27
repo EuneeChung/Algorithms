@@ -3,9 +3,10 @@ import java.lang.Integer.max
 fun main() {
     val t = readLine()!!.toInt()
     val dpArray = MutableList(2) { MutableList<Int>(1000001) { 0 } }
+    val array = List(2) { List<String>(1000000) { "" } }.toMutableList()
     for (a in 1..t) {
         val n = readLine()!!.toInt()
-        val array = List(2) { List<String>(n) { "" } }.toMutableList()
+
         array[0] = readLine()!!.split(" ")
         array[1] = readLine()!!.split(" ")
 
