@@ -3,7 +3,6 @@ package swea;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 
@@ -20,9 +19,9 @@ public class SWEA_7465 {
             st = new StringTokenizer(br.readLine());
             int N=Integer.parseInt(st.nextToken());
             int M=Integer.parseInt(st.nextToken());
-//            StringBuilder group= new StringBuilder();
+
             peoples = new int[N];
-            count=0;
+
             for (int i = 0; i < N; i++) { // 대표자는 본인으로 초기화
                 peoples[i]=i;
             }
@@ -32,18 +31,14 @@ public class SWEA_7465 {
             }
             for (int i = 0; i < N; i++) { // 대표자들을 찾기
                 find(i);
-//                if(!group.toString().contains(find(i)+"")) group.append(find(i));
-            }
-            Arrays.sort(peoples);
-            int temp=-100;
 
-            for(int p : peoples){
-                if(temp != p){
-                    temp=p;
-                    count++;
-                }
             }
-//            sb.append("#").append(t).append(" ").append(group.length()).append("\n");
+
+            count=0;
+            for (int p = 0; p < N; p++) {
+                if(find(p) == p) count++;
+            }
+
             sb.append("#").append(t).append(" ").append(count).append("\n");
         }
         sb.deleteCharAt(sb.length()-1);
