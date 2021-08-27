@@ -4,9 +4,8 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 public class SWEA_1251 {
-    static float E;
+    static double E;
     static int N;
-    static double L;
     static int[][] islands;
 
     public static void main(String[] args) throws IOException {
@@ -26,8 +25,8 @@ public class SWEA_1251 {
                     islands[j][i] = Integer.parseInt(st.nextToken());
                 }
             }
-            E = Float.parseFloat(br.readLine());
-            bw.write("#" + t + " " + Math.round(prim()));
+            E = Double.parseDouble(br.readLine());
+            bw.write("#" + t + " " + Math.round(prim()*E));
         }
 
 
@@ -46,16 +45,14 @@ public class SWEA_1251 {
         //간선 생성
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                int a = Math.abs(islands[i][0] - islands[j][0]);
-                int b= Math.abs(islands[i][1] - islands[j][1]);
+                double a = Math.abs(islands[i][0] - islands[j][0]);
+                double b= Math.abs(islands[i][1] - islands[j][1]);
 //                double l= Math.sqrt(Math.pow(a,2)+Math.pow(b,2));
-                adjMatrix[i][j] = (Math.pow(a,2)+Math.pow(b,2))*E;
+                adjMatrix[i][j] = (Math.pow(a,2)+Math.pow(b,2));
             }
-            minEdge[i] = Integer.MAX_VALUE;
+            minEdge[i] = Double.MAX_VALUE;
         }
-//        for (double[] a : adjMatrix) {
-//            System.out.println(Arrays.toString(a));
-//        }
+
 
 
         minEdge[0] = 0; // 임의의 시작점 0의 간선비용을 0으로 셋팅
