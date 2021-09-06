@@ -1,5 +1,5 @@
 # Algorithms
-> last modified 2021-08-12
+> last modified 2021-09-06
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -98,6 +98,12 @@
 - [[BOJ JAVA] 16926 배열 돌리기 1](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16926.java)
 - [[BOJ JAVA] 16935 배열 돌리기 3](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16935.java)
 - [[BOJ JAVA] 17413 단어 뒤집기 2](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17413.java)
+- [[BOJ JAVA] 2954 창영이의 일기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2954.java)
+- [[BOJ JAVA] 2605 줄세우기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2605.java)
+- [[BOJ JAVA] 2527 직사각형](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2527.java)
+- [[BOJ JAVA] 2999 비밀 이메일](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2999.java)
+- [[BOJ JAVA] 12927 배수 스위치](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12927.java)
+- [[BOJ JAVA] 2564 경비원](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2564.java)
 
 <b>스택</b>
 - [[BOJ JAVA] 2493 탑 - 스택](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2493.java)
@@ -105,16 +111,38 @@
 
 <b>재귀</b>
 - [[BOJ JAVA] 17478 재귀함수가 뭔가요? - 재귀](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17478.java)
-
+- [[BOJ JAVA] 1987 알파벳 - 재귀](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1987.java)
+ 
 <b>순열 조합 부분집합</b>
 - [[BOJ JAVA] 1158 요세푸스 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1158.java)
 - [[BOJ JAVA] 3040 백설 공주와 일곱 난쟁이](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_3040.java)
 - [[BOJ JAVA] 17406 배열 돌리기 4](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17406.java)
+- [[BOJ JAVA] 15686 치킨 배달](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15686.java)
+- [[BOJ JAVA] 17135 캐슬 디펜스](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17135.java)
+- [[BOJ JAVA] 2961 도영이가 만든 맛있는 음식](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2961.java)
+- [BOJ JAVA 1759 암호 만들기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1759.java)
+ 
+ <b>그리디/분할정복</b>
+- [[BOJ JAVA] 1074 Z - 분할 정복 기반](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1074.java)
+- [[BOJ JAVA] 2839 설탕 배달](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2839.java)
+- [[BOJ JAVA] 1992 쿼드트리](https://github.com/EuneeChung/Algorithms/commit/159e0fe2239d4200c772197a1859e01defb1a737)
+
+<b>DFS/BFS</b>
+ - [[BOJ JAVA] 2578 빙고](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2578.java)
+- [[BOJ JAVA] 15683 감시](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15683.java)
+- [[BOJ JAVA] 1260 DFS와 BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1260.java)
+- [[BOJ JAVA] 10026 적록색약 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10026.java)
+ 
+ <b>그래프</b>
+ - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
 </blockquote>
 <br>
 
 ## 
 #### SWEA JAVA
+<blockquote>  
+ 
+ <b>구현</b>
 - [D3 11315 오목판정](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_11315.java)
 - [D3 1208 (S/W 문제해결 기본) 1일차 - Flatten](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1208.java)
 - [D4 1210 (S/W 문제해결 기본) 2일차 - Ladder1](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1210.java)
@@ -131,3 +159,22 @@
 - [D3 5215 햄버거 다이어트](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5215.java)
 - [D3 6808 규영이와 인영이의 카드게임](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_6808.java)
 - [D3 9229 한빈이와 Spot Mart](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_9229.java)
+- [D3 5356 의석이의 세로로 말해요](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5356.java)
+
+<b>순열 조합 부분집합</b>
+- [D5 (S/W 문제해결 응용) 3일차 - 최적 경로](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1247.java)
+- [4012 [모의 SW 역량테스트] 요리사](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4012.java)
+- [5644 [모의 SW 역량테스트] 무선 충전](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5644.java)
+
+
+<b>그래프</b>  
+union find set
+- [D4 7465 창용 마을 무리의 개수 - string.length로 count 하지 말자)](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_7465.java)
+- [D4 3289 서로소 집합 - union find set)](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_3289.java)
+- [D4 (S/W 문제해결 응용) 4일차 - 하나로 - double 자료형](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1251.java)
+ </blockquote>
+ 
+ ## 
+#### JUNGOL
+
+- [[그리디] 1828 냉장고](https://github.com/EuneeChung/Algorithms/blob/master/jungol/Jungol_1828.java)
