@@ -3,7 +3,6 @@ package src;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class Java_10971 {
@@ -23,28 +22,27 @@ public class Java_10971 {
                 adjMatrix[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        for (int i = 0; i < N; i++) {
-            Arrays.fill(add, false);
-            dfs(i, i, 0, 0, add);
-        }
+
+        dfs(0, 0, 0, add);
+
         System.out.print(result);
     }
 
-    static void dfs(int start, int current, int cnt, int sum, boolean[] add) {
+    static void dfs(int current, int cnt, int sum, boolean[] add) {
         if (cnt >= add.length) {
             result = Math.min(result, sum);
             return;
         }
 
         if (cnt == add.length - 1) {
-            if ( adjMatrix[current][start] != 0 && !add[start]) {
-                dfs(start, current, cnt + 1, sum + adjMatrix[current][start], add);
+            if (adjMatrix[current][0] != 0 && !add[0]) {
+                dfs(current, cnt + 1, sum + adjMatrix[current][0], add);
             }
         } else {
             for (int i = 0; i < add.length; i++) {
-                if (adjMatrix[current][i] != 0 && !add[i] && i != start) {
+                if (adjMatrix[current][i] != 0 && !add[i] && i != 0) {
                     add[i] = true;
-                    dfs(start, i, cnt + 1, sum +  adjMatrix[current][i], add);
+                    dfs(i, cnt + 1, sum + adjMatrix[current][i], add);
                     add[i] = false;
                 }
             }
