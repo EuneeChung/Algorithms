@@ -1,5 +1,5 @@
 # Algorithms
-> last modified 2021-09-06
+> last modified 2021-09-13
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -132,6 +132,8 @@
 - [[BOJ JAVA] 15683 감시](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15683.java)
 - [[BOJ JAVA] 1260 DFS와 BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1260.java)
 - [[BOJ JAVA] 10026 적록색약 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10026.java)
+ - [[BOJ JAVA] 1182 부분수열의 합 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1182.java)
+- [[BOJ JAVA] 10971 외판원 순회 2- dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10971.java)
  
  <b>그래프</b>
  - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
