@@ -3,19 +3,21 @@ package src;
 import java.util.Scanner;
 
 public class Java_1463 {
+    static int N,min=Integer.MAX_VALUE;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int[] dp = new int[N+1];
-        dp[1]=0;
-        int min =0;
-        for (int i = 2; i <= N; i++) {
-            min = dp[i-1]+1;
-            if(i%3==0) min = Math.min(min, dp[i/3]+1);
-            if(i%2==0) min = Math.min(min, dp[i/2]+1);
-            dp[i]=min;
+        N = sc.nextInt();
+        make1(N,0);
+        System.out.print(min);
+    }
+    static void make1(int cnt,int count){
+        if(cnt==1){
+            min=Math.min(count, min);
+            return;
         }
-        System.out.print(dp[N]);
-
+        if(min<count) return;
+        if(cnt%3==0)  make1(cnt/3,count+1);
+        if(cnt%2==0)  make1(cnt/2,count+1);
+        make1(cnt-1,count+1);
     }
 }
