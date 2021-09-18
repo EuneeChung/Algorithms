@@ -22,19 +22,23 @@ public class Java_1303 {
         }
         parents = new int[N*M];
         make();
-
+//        1. **union set 알고리즘**을 활용
+//        2. 인접해있고, 같은 무리라면 `union` 으로 합치면서 한바퀴 돌기
+//        3. 다시 한 바퀴 돌면서 `HashMap` 자료구조를 이용하여 key : 부모의 인덱스 value : key를 부모로 가지는 자식인덱스들을 줄줄이 추가
+//        4. HashMap을 key 중심으로 한바퀴 돌면서 (value인 부모가 같은 자식들의 어레이리스트)의 사이즈의 제곱을 해당 팀에게 더함.
         for (int i = 0; i <M ; i++) {
             for (int j = 0; j < N; j++) {
                 for (int d = 0; d < 4; d++) {
                     int tx = i+dx[d];
                     int ty = j+dy[d];
                     if(tx<0 || tx>=M || ty <0 || ty>=N) continue;
-                    if(map[i][j]==map[tx][ty]) union(i*N+j, tx*N+ty);
+                    if(map[i][j]==map[tx][ty]) union(i*N+j, tx*N+ty); // 2. 인접해있고, 같은 무리라면 `union` 으로 합치면서 한바퀴 돌기
                 }
             }
         }
         int p=0;
         HashMap<Integer, List<Integer>> countMap = new HashMap<>();
+        // 3. 다시 한 바퀴 돌면서 `HashMap` 자료구조를 이용하여 key : 부모의 인덱스 value : key를 부모로 가지는 자식인덱스들을 줄줄이 추가
         for (int i = 0; i <M ; i++) {
             for (int j = 0; j < N; j++) {
                 p =find(i*N+j);
@@ -45,6 +49,7 @@ public class Java_1303 {
         }
         int B =0;
         int W=0;
+        //  4. HashMap을 key 중심으로 한바퀴 돌면서 (value인 부모가 같은 자식들의 어레이리스트)의 사이즈의 제곱을 해당 팀에게 더함.
         Iterator<Integer> keys = countMap.keySet().iterator();
         while (keys.hasNext()){
             Integer key = keys.next();
