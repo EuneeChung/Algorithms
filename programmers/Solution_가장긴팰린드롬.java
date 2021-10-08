@@ -5,30 +5,15 @@ public class Solution_가장긴팰린드롬 {
     {
         int max = 1;
         for(int c=0; c<s.length()-1;c++){
-            if(s.charAt(c)==s.charAt(c+1)) max = Math.max(even(c, s),max);
-            if(c>0 &&s.charAt(c-1)==s.charAt(c+1)) max = Math.max(odd(c, s),max);
+            if(s.charAt(c)==s.charAt(c+1)) max = Math.max(check(c,c+1, s),max);
+            if(c>0 &&s.charAt(c-1)==s.charAt(c+1)) max = Math.max(check(c-1,c+1, s),max);
         }
         return max;
     }
 
-    public int odd(int c, String s){
-        int p=1;
-        int i=c-1;
-        int j=c+1;
-        while(true){
-            if(i<0 || j>= s.length()) break;
-            if(s.charAt(i)==s.charAt(j)){
-                p+=2;
-                i--;
-                j++;
-            } else break;
-        }
-        return p;
-    }
-    public int even(int c, String s){
-        int p=0;
-        int i=c;
-        int j=c+1;
+    public int check(int i,int j, String s){
+        int p=j-i-1;
+
         while(true){
             if(i<0 || j>= s.length()) break;
             if(s.charAt(i)==s.charAt(j)){
