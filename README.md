@@ -1,5 +1,5 @@
 # Algorithms
-> last modified 2021-09-13
+> last modified 2021-10-18
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -16,13 +16,15 @@
  ┣ 📂programmers
  ┣ 📂programmers-level1 // 애초에 programmers로 만들 걸 후회한다.
  ┣ 📂src // "src" 라고 쓰고 "백준" 이라고 읽는다.
- ┗ 📂swea
+ ┣ 📂swea 
+ ┗ 📂jungol
 ```
 
 ## Sites
 - [백준](https://www.acmicpc.net/)
 - [프로그래머스](https://programmers.co.kr/)
 - [SW Exert Academy](https://swexpertacademy.com/main/main.do)    
+- [JUNGOL](http://jungol.co.kr/) 
   <br>
   
 ## Code
@@ -104,6 +106,10 @@
 - [[BOJ JAVA] 2999 비밀 이메일](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2999.java)
 - [[BOJ JAVA] 12927 배수 스위치](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12927.java)
 - [[BOJ JAVA] 2564 경비원](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2564.java)
+ - [[BOJ JAVA] 15961 회전 초밥 - BufferedReader를 쓰자 제발](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15961.java)
+ - [[BOJ JAVA] 17143 낚시왕](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17143.java)
+ - [[BOJ JAVA] 17144 미세먼지 안녕!](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17144.java)
+ - [[BOJ JAVA] 1755 숫자놀이](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1755.java)
 
 <b>스택</b>
 - [[BOJ JAVA] 2493 탑 - 스택](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2493.java)
@@ -121,12 +127,15 @@
 - [[BOJ JAVA] 17135 캐슬 디펜스](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17135.java)
 - [[BOJ JAVA] 2961 도영이가 만든 맛있는 음식](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2961.java)
 - [BOJ JAVA 1759 암호 만들기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1759.java)
+ - [[BOJ JAVA] 1182 부분수열의 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1182.java)
  
  <b>그리디/분할정복</b>
 - [[BOJ JAVA] 1074 Z - 분할 정복 기반](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1074.java)
 - [[BOJ JAVA] 2839 설탕 배달](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2839.java)
 - [[BOJ JAVA] 1992 쿼드트리](https://github.com/EuneeChung/Algorithms/commit/159e0fe2239d4200c772197a1859e01defb1a737)
-
+- [[BOJ JAVA] 3109 빵집](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_3019.java)
+ 
+ 
 <b>DFS/BFS</b>
  - [[BOJ JAVA] 2578 빙고](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2578.java)
 - [[BOJ JAVA] 15683 감시](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15683.java)
@@ -134,9 +143,28 @@
 - [[BOJ JAVA] 10026 적록색약 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10026.java)
  - [[BOJ JAVA] 1182 부분수열의 합 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1182.java)
 - [[BOJ JAVA] 10971 외판원 순회 2- dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10971.java)
+ - [[BOJ JAVA] 1012 유기농 배추 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1012.java)
+- [[BOJ JAVA] 1697 숨바꼭질 - bfs - 주석](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1697.java)
+- [[BOJ JAVA] 1697 숨바꼭질 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1697.java)
+- [[BOJ JAVA] 14502 연구소 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14502.java)
+- [[BOJ JAVA] 9205 맥주 마시면서 걸어가기 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9205.java)
+- [[BOJ JAVA] 7576 토마토 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_7576.java)
+- [[BOJ JAVA] 2667 단지번호붙이기 - bfs - list 정렬](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2667.java)
+- [[BOJ JAVA] 4485 녹색 옷 입은 애가 젤다지? - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_4485.java)
+ - [[BOJ JAVA] 1149 RGB거리](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1149.java)  
  
  <b>그래프</b>
  - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
+ - [[BOJ JAVA] 1303 전쟁 - 전투 - union find - N 가로 - 주석](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1303.java)
+- [[BOJ JAVA] 16234 인구 이동 - 주석 추가](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16234.java)
+- [[BOJ JAVA] 10971 외판원 순회 2](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10971.java) 
+
+ <b>DP</b>
+- [[BOJ JAVA] 9465 스티커 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9465.java)
+- [[BOJ JAVA] 12865 평범한 배낭 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12864.java)
+- [[BOJ JAVA] 2579 계단 오르기 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2579.java)
+ - [[BOJ JAVA] 1463 1로 만들기 - DP/ 재귀 - 호출 순서 신경쓰기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1463.java)
+ 
 </blockquote>
 <br>
 
