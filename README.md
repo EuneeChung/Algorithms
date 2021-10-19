@@ -190,21 +190,43 @@
 - [D3 6808 규영이와 인영이의 카드게임](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_6808.java)
 - [D3 9229 한빈이와 Spot Mart](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_9229.java)
 - [D3 5356 의석이의 세로로 말해요](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5356.java)
+ - [4014 [모의 SW 역량테스트] 활주로 건설 - 초기화를 잘 하자](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4014.java)
 
 <b>순열 조합 부분집합</b>
 - [D5 (S/W 문제해결 응용) 3일차 - 최적 경로](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1247.java)
 - [4012 [모의 SW 역량테스트] 요리사](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4012.java)
-- [5644 [모의 SW 역량테스트] 무선 충전](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5644.java)
-
-
+- [5644 [모의 SW 역량테스트] 무선 충전](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5644.java)  
+ 
+<b>DFS/BFS</b>
+- [1953 [모의 SW 역량테스트] 탈주범 검거 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1953.java)
+- [4013 [모의 SW 역량테스트] 특이한 자석](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4013.java)
+- [D4 1249 [S/W 문제해결 응용] 4일차 - 보급로](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1249.java)
+- [D4 5643 [Professional] 키 순서 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5643.java)
+ 
 <b>그래프</b>  
 union find set
 - [D4 7465 창용 마을 무리의 개수 - string.length로 count 하지 말자)](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_7465.java)
 - [D4 3289 서로소 집합 - union find set)](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_3289.java)
-- [D4 (S/W 문제해결 응용) 4일차 - 하나로 - double 자료형](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1251.java)
- </blockquote>
+- [D4 (S/W 문제해결 응용) 4일차 - 하나로 - double 자료형](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1251.java)  
+- [D3 5607 [Professional] 조합 - 페르마 소정리](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5607.java)
+ <b>DP</b>
+ - [D3 3307 최장 증가 부분 수열 - DP](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_3307.java)
+ 
+</blockquote>
  
  ## 
 #### JUNGOL
-
+<blockquote>
+ 
 - [[그리디] 1828 냉장고](https://github.com/EuneeChung/Algorithms/blob/master/jungol/Jungol_1828.java)
+
+</blockquote>
+
+## 
+#### programmers
+<blockquote>
+ 
+- [[연습문제] 가장 긴 팰린드롬](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EA%B0%80%EC%9E%A5%EA%B8%B4%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)
+- [[Level2] 주식가격](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
+ 
+ </blockquote>
