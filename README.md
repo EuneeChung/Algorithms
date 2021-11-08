@@ -226,6 +226,8 @@ union find set
 #### programmers
 <blockquote>
  
+ - [[Level1] 완주하지 못한 선수 - IDE 사용 금지 - import 꼭 하기!!](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.java)
+- [[Level1] 이상한 문자 만들기 - IDE 사용 금지](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 - [[연습문제] 가장 긴 팰린드롬](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EA%B0%80%EC%9E%A5%EA%B8%B4%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)
 - [[Level2] 주식가격](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
  
