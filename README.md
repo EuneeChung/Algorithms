@@ -1,5 +1,5 @@
 # Algorithms
-> last modified 2021-10-18
+> last modified 2021-11-24
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -110,7 +110,9 @@
  - [[BOJ JAVA] 17143 낚시왕](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17143.java)
  - [[BOJ JAVA] 17144 미세먼지 안녕!](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17144.java)
  - [[BOJ JAVA] 1755 숫자놀이](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1755.java)
-
+ - [[BOJ JAVA] 2239 스도쿠](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2239.java)
+ - [[BOJ JAVA] 17135 캐슬 디펜스 ver2 - Set, equals, hashcode](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17135.java)
+ 
 <b>스택</b>
 - [[BOJ JAVA] 2493 탑 - 스택](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2493.java)
 - [[BOJ JAVA] 2304 창고 다각형](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2304.java)
@@ -152,6 +154,9 @@
 - [[BOJ JAVA] 2667 단지번호붙이기 - bfs - list 정렬](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2667.java)
 - [[BOJ JAVA] 4485 녹색 옷 입은 애가 젤다지? - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_4485.java)
  - [[BOJ JAVA] 1149 RGB거리](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1149.java)  
+ - [[BOJ JAVA] 16236 아기 상어 - PriorityQueue BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16236.java)
+- [[BOJ JAVA] 1600 말이 되고픈 원숭이 - 3차원 배열 방문 체크 bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1600.java)
+- [[BOJ JAVA] 17472 다리 만들기 2 - bfs, prim](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17472.java)
  
  <b>그래프</b>
  - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
@@ -196,6 +201,7 @@
 - [D5 (S/W 문제해결 응용) 3일차 - 최적 경로](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1247.java)
 - [4012 [모의 SW 역량테스트] 요리사](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4012.java)
 - [5644 [모의 SW 역량테스트] 무선 충전](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5644.java)  
+ - [[BOJ JAVA] 6603 로또 - 조합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_6603.java)
  
 <b>DFS/BFS</b>
 - [1953 [모의 SW 역량테스트] 탈주범 검거 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1953.java)
@@ -230,5 +236,6 @@ union find set
 - [[Level1] 이상한 문자 만들기 - IDE 사용 금지](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 - [[연습문제] 가장 긴 팰린드롬](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EA%B0%80%EC%9E%A5%EA%B8%B4%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)
 - [[Level2] 주식가격](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
- 
+- [[Level2] 땅따먹기 - DP](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java)
+ - [[Level3] 네트워크](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
  </blockquote>
