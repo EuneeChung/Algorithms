@@ -1,5 +1,7 @@
 # Algorithms
-> last modified 2021-11-24
+>
+> created 2020-04-07
+> last modified 2022-03-16
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -112,7 +114,17 @@
  - [[BOJ JAVA] 1755 숫자놀이](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1755.java)
  - [[BOJ JAVA] 2239 스도쿠](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2239.java)
  - [[BOJ JAVA] 17135 캐슬 디펜스 ver2 - Set, equals, hashcode](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17135.java)
- 
+ - [[BOJ JAVA] 17471 게리맨더링](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17471.java)
+- [[BOJ JAVA] 2573 빙산](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2573.java)
+- [[BOJ JAVA] 2606 바이러스](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2606.java)
+- [[BOJ JAVA] 17281 ⚾ - 삼성 A형 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17281.java)
+- [[BOJ JAVA\] 16637 괄호 추가하기 - 삼성 A형 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16637.java)
+- [[BOJ JAVA] 13549 숨바꼭질 3](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_13549.java)
+- [[BOJ JAVA] 5430 AC](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_5430.java)
+- [[BOJ JAVA] 11286 절댓값 힙](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_11286.java)
+- [[BOJ JAVA] 5014 스타트링크](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_5014.java)
+- [[BOJ JAVA] 12851 숨바꼭질 2](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12851.java)
+
 <b>스택</b>
 - [[BOJ JAVA] 2493 탑 - 스택](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2493.java)
 - [[BOJ JAVA] 2304 창고 다각형](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2304.java)
@@ -120,7 +132,7 @@
 <b>재귀</b>
 - [[BOJ JAVA] 17478 재귀함수가 뭔가요? - 재귀](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17478.java)
 - [[BOJ JAVA] 1987 알파벳 - 재귀](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1987.java)
- 
+
 <b>순열 조합 부분집합</b>
 - [[BOJ JAVA] 1158 요세푸스 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1158.java)
 - [[BOJ JAVA] 3040 백설 공주와 일곱 난쟁이](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_3040.java)
@@ -130,15 +142,28 @@
 - [[BOJ JAVA] 2961 도영이가 만든 맛있는 음식](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2961.java)
 - [BOJ JAVA 1759 암호 만들기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1759.java)
  - [[BOJ JAVA] 1182 부분수열의 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1182.java)
- 
+ - [[BOJ JAVA\] 15649 N과 M (1)]([]())
+- [[BOJ JAVA] 15650 N과 M (2)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15650.java)
+- [[BOJ JAVA] 15651 N과 M (3)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15651.java)
+- [[BOJ JAVA] 15652 N과 M (4)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15652.java)
+- [[BOJ JAVA] 15654 N과 M (5)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15654.java)
+- [[BOJ JAVA] 15655 N과 M (6)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15655.java)
+- [[BOJ JAVA] 15656 N과 M (7)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15656.java)
+- [[BOJ JAVA] 15657 N과 M (8)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15657.java)
+- [[BOJ JAVA] 15663 N과 M (9)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15663.java)
+- [[BOJ JAVA] 15664 N과 M (10)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15664.java)
+- [[BOJ JAVA] 15665 N과 M (11)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15665.java)
+- [[BOJ JAVA] 15666 N과 M (12)](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15666.java)
+
  <b>그리디/분할정복</b>
 - [[BOJ JAVA] 1074 Z - 분할 정복 기반](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1074.java)
 - [[BOJ JAVA] 2839 설탕 배달](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2839.java)
 - [[BOJ JAVA] 1992 쿼드트리](https://github.com/EuneeChung/Algorithms/commit/159e0fe2239d4200c772197a1859e01defb1a737)
 - [[BOJ JAVA] 3109 빵집](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_3019.java)
- 
- 
+- [[BOJ JAVA] 1780 종이의 개수 - 분할정복](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1780.java)
+
 <b>DFS/BFS</b>
+
  - [[BOJ JAVA] 2578 빙고](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2578.java)
 - [[BOJ JAVA] 15683 감시](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15683.java)
 - [[BOJ JAVA] 1260 DFS와 BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1260.java)
@@ -157,7 +182,22 @@
  - [[BOJ JAVA] 16236 아기 상어 - PriorityQueue BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16236.java)
 - [[BOJ JAVA] 1600 말이 되고픈 원숭이 - 3차원 배열 방문 체크 bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1600.java)
 - [[BOJ JAVA] 17472 다리 만들기 2 - bfs, prim](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17472.java)
- 
+- [[BOJ JAVA] 17070 파이프 옮기기 1 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17070.java)
+- [[BOJ JAVA] 7569 토마토 - BFS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_7569.java)
+
+<b>이분탐색</b>
+
+- [[BOJ JAVA] 2805 나무 자르기 - 이분 탐색 - 파라메트릭 서치](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2805.java)
+- [[BOJ JAVA] 1654 랜선 자르기 - 이분 탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1654.java)
+- [[BOJ JAVA] 10816 숫자 카드 2](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10816.java)
+- [[BOJ JAVA] 1920 수 찾기 - 이분 탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1920.java)
+
+<b>LIS</b>
+
+- [[BOJ JAVA] 11053 가장 긴 증가하는 부분 수열](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_11053.java)
+- [[BOJ JAVA] 12015 가장 긴 증가하는 부분 수열 2 - LIS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12015.java)
+- [[BOJ JAVA] 2565 전깃줄 - LIS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2565.java)
+
  <b>그래프</b>
  - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
  - [[BOJ JAVA] 1303 전쟁 - 전투 - union find - N 가로 - 주석](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1303.java)
@@ -169,14 +209,97 @@
 - [[BOJ JAVA] 12865 평범한 배낭 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12864.java)
 - [[BOJ JAVA] 2579 계단 오르기 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2579.java)
  - [[BOJ JAVA] 1463 1로 만들기 - DP/ 재귀 - 호출 순서 신경쓰기](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1463.java)
- 
+
+- [[BOJ JAVA] 13325 이진 트리 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_13325.java)
+- [[BOJ JAVA] 2293 동전 1 - DP](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2293.java)
+
+ <b>ETC</b>
+
+- [[BOJ JAVA] 1786 찾기 - kmp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1786.java)
+- [[BOJ JAVA] 1194 달이 차오른다, 가자. - bitmask](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1194.java)
+- [[BOJ JAVA] 2003 수들의 합 2 - 투포인터](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2003.java)
+- [[BOJ JAVA] 9935 문자열 폭발 - 슬라이딩 윈도우](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9935.java)
+- [[BOJ JAVA\] 1043 거짓말](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1043.java)
+
 </blockquote>
 <br>
 
+ <b>삼성 SW 역량 테스트 기출 문제</b>
+
+- [[BOJ JAVA] 15685 드래곤 커브 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_15685.java)
+- [[BOJ JAVA] 15684 사다리 조작 - 삼성 SW 역량 테스트 기출 문제]()
+
+- [[BOJ JAVA] 16235 나무 재테크 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_16235.java)
+
+- [[BOJ JAVA] 9205 맥주 마시면서 걸어가기 - 플로이드 워샬](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9205.java)
+
+- [[BOJ JAVA] 14500 테트로미노 - 삼성 SW 역량 테스트 기출 문제 - dfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14500.java)
+
+- [[BOJ JAVA] 14503 로봇 청소기 - 삼성 SW 역량 테스트 기출 문제 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14503.java)
+
+- [[BOJ JAVA] 13460 구술 탈출 2 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_13460.java)
+
+- [[BOJ JAVA] 13458 시험 감독 - 삼성 SW 역량 테스트 기출 문제 - long](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_13458.java)
+
+- [[BOJ JAVA] 3190 뱀 - 삼성 SW 역량 테스트 기출 문제 - DP](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_3190.java)
+
+- [[BOJ JAVA]14890 경사로 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14890.java)
+
+- [[BOJ JAVA] 14889 스타트와 링크 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14889.java)
+
+- [[BOJ JAVA] 14499 주사위 굴리기 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14499.java)
+
+- [[BOJ JAVA] 14501 퇴사 - 삼성 SW 역량 테스트 기출 문제 - dp](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14501.java)
+
+- [[BOJ JAVA] 14891 톱니바퀴 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14891.java)
+
+- [[BOJ JAVA] 17142 연구소 3 - 삼성 SW 역량 테스트 기출 문제 - comb,bfs](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17142.java)
+
+- [[BOJ JAVA] 17140 이차원 배열과 연산 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17140.java)
+
+- [[BOJ JAVA] 14888 연산자 끼워넣기 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_14888.java)
+
+- [[BOJ JAVA] 19236 청소년 상어 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_19236.java)
+
+- [[BOJ JAVA] 21608 상어 초등학교 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_21608.java)
+
+- [[BOJ JAVA] 17779 게리맨더링 2 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17779.java)
+
+- [[BOJ JAVA] 12100 2048(Easy) - 삼성 SW 역량 테스트 기출](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12100.java)
+
+- [[BOJ JAVA] 17825 주사위 윷놀이 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17825.java)
+
+- [[BOJ JAVA] 21609 상어 중학교 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_21609.java)
+
+- [[BOJ JAVA] 23288 주사위 굴리기 2 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_23288.java)
+
+- [[BOJ JAVA] 17822 원판 돌리기 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17822.java)
+
+- [[BOJ JAVA] 17837 새로운 게임 2 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_17837.java)
+
+- [[BOJ JAVA] 20055 컨베이어 벨트 위의 로봇 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_20055.java)
+
+- [[BOJ JAVA] 20058 마법사 상어와 파이어스톰 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_20058.java)
+
+- [[BOJ JAVA] 21610 마법사 상어와 비바라기 -삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_21610.java)
+
+- [[BOJ JAVA] 20056 마법사 상어와 파이어볼 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_20056.java)
+
+- [[BOJ JAVA] 20057 마법사 상어와 토네이도 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_20057.java)
+
+- [[BOJ JAVA\] 21611 마법사 상어와 블리자드 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_21611.java)
+
+- [[BOJ JAVA\] 19237 어른 상어 - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_19237.java)
+
+- [[BOJ JAVA\] 23289 온풍기 안녕! - 삼성 SW 역량 테스트 기출 문제](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_23289.java)
+
+  
+
 ## 
+
 #### SWEA JAVA
 <blockquote>  
- 
+
  <b>구현</b>
 - [D3 11315 오목판정](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_11315.java)
 - [D3 1208 (S/W 문제해결 기본) 1일차 - Flatten](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1208.java)
@@ -202,13 +325,14 @@
 - [4012 [모의 SW 역량테스트] 요리사](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4012.java)
 - [5644 [모의 SW 역량테스트] 무선 충전](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5644.java)  
  - [[BOJ JAVA] 6603 로또 - 조합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_6603.java)
- 
+
 <b>DFS/BFS</b>
+
 - [1953 [모의 SW 역량테스트] 탈주범 검거 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1953.java)
 - [4013 [모의 SW 역량테스트] 특이한 자석](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_4013.java)
 - [D4 1249 [S/W 문제해결 응용] 4일차 - 보급로](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_1249.java)
 - [D4 5643 [Professional] 키 순서 - bfs](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5643.java)
- 
+
 <b>그래프</b>  
 union find set
 - [D4 7465 창용 마을 무리의 개수 - string.length로 count 하지 말자)](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_7465.java)
@@ -217,13 +341,13 @@ union find set
 - [D3 5607 [Professional] 조합 - 페르마 소정리](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_5607.java)
  <b>DP</b>
  - [D3 3307 최장 증가 부분 수열 - DP](https://github.com/EuneeChung/Algorithms/blob/master/swea/SWEA_3307.java)
- 
+
 </blockquote>
- 
+
  ## 
 #### JUNGOL
 <blockquote>
- 
+
 - [[그리디] 1828 냉장고](https://github.com/EuneeChung/Algorithms/blob/master/jungol/Jungol_1828.java)
 
 </blockquote>
@@ -231,11 +355,30 @@ union find set
 ## 
 #### programmers
 <blockquote>
- 
+
  - [[Level1] 완주하지 못한 선수 - IDE 사용 금지 - import 꼭 하기!!](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.java)
+
 - [[Level1] 이상한 문자 만들기 - IDE 사용 금지](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
+
 - [[연습문제] 가장 긴 팰린드롬](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EA%B0%80%EC%9E%A5%EA%B8%B4%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)
+
 - [[Level2] 주식가격](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
+
 - [[Level2] 땅따먹기 - DP](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java)
+
+- [[Level2] 기능개발](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
+
  - [[Level3] 네트워크](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)
- </blockquote>
+
+ - [[[Level3\] 금과 은 운반하기]](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_금과은운반하기.java)
+
+- [[[Level3\] 디스크 컨트롤러 - Comparator]](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_디스크컨트롤러.java)
+
+- [[[Level3\] 리틀 프렌즈 사천성 - 시간초과 해결]](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_리틀프렌즈사천성.java)
+
+- [[Level2\] N^2 배열 자르기](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_n^2배열자르기.java)
+
+- [[Level2] 구명보트](https://github.com/EuneeChung/Algorithms/blob/master/programmers/Solution_구명보트.java)
+
+    </blockquote>
+
