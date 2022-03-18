@@ -1,7 +1,6 @@
 # Algorithms
->
-> created 2020-04-07
-> last modified 2022-03-16
+>created 2020-04-07
+> last modified 2022-03-19
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -191,6 +190,8 @@
 - [[BOJ JAVA] 1654 랜선 자르기 - 이분 탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1654.java)
 - [[BOJ JAVA] 10816 숫자 카드 2](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10816.java)
 - [[BOJ JAVA] 1920 수 찾기 - 이분 탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1920.java)
+- [[BOJ JAVA] 10815 숫자 카드](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10815.java)
+- [[BOJ JAVA] 2110 공유기 설치](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2110.java)
 
 <b>LIS</b>
 
@@ -219,8 +220,10 @@
 - [[BOJ JAVA] 1194 달이 차오른다, 가자. - bitmask](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1194.java)
 - [[BOJ JAVA] 2003 수들의 합 2 - 투포인터](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2003.java)
 - [[BOJ JAVA] 9935 문자열 폭발 - 슬라이딩 윈도우](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9935.java)
-- [[BOJ JAVA\] 1043 거짓말](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1043.java)
+- [[BOJ JAVA] 1043 거짓말](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1043.java)
 - [[BOJ JAVA] 9205 맥주 마시면서 걸어가기 - 플로이드 워샬](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_9205.java)
+- [[BOJ JAVA] 7662 이중 우선순위 큐](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_7662.java)
+- [[BOJ JAVA] 1167 트리의 지름](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1167.java)
 
 </blockquote>
 <br>
@@ -261,7 +264,7 @@
 - [[BOJ JAVA\] 21611 마법사 상어와 블리자드](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_21611.java)
 - [[BOJ JAVA\] 19237 어른 상어](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_19237.java)
 - [[BOJ JAVA\] 23289 온풍기 안녕!](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_23289.java)
-</blockquote>
+  </blockquote>
   
 
 ## 
