@@ -1,6 +1,6 @@
 # Algorithms
->created 2020-04-07
-> last modified 2022-03-25
+>created 2020-04-07  
+>last modified 2022-03-25
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
