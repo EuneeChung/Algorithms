@@ -1,6 +1,6 @@
 # Algorithms
 >created 2020-04-07
-> last modified 2022-03-19
+> last modified 2022-03-25
 ## Goal 🔥
 1. 깊은 이해를 바탕으로 한 알고리즘 능력 향상
 2. 언어 스택 추가 (코틀린 + 파이썬, 자바)
@@ -192,12 +192,22 @@
 - [[BOJ JAVA] 1920 수 찾기 - 이분 탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1920.java)
 - [[BOJ JAVA] 10815 숫자 카드](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_10815.java)
 - [[BOJ JAVA] 2110 공유기 설치](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2110.java)
+- [[BOJ JAVA] 2512 예산 - 이분탐색](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2512.java)
 
 <b>LIS</b>
 
 - [[BOJ JAVA] 11053 가장 긴 증가하는 부분 수열](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_11053.java)
 - [[BOJ JAVA] 12015 가장 긴 증가하는 부분 수열 2 - LIS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12015.java)
 - [[BOJ JAVA] 2565 전깃줄 - LIS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2565.java)
+- [[BOJ JAVA] 12738 가장 긴 증가하는 부분 수열 3 - list 말고 배열로 하자](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_12738.java) 
+- [[BOJ JAVA] 2568 전깃줄- 2 - LIS](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2568.java)
+
+<b>누적합</b>
+
+- [[BOJ JAVA] 2559 수열 - 누적 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2559.java)
+- [[BOJ JAVA] 11660 구간 합 구하기 5 - 누적 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_11660.java)
+- [[BOJ JAVA] 2167 2차원 배열의 합 - 누적 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_2167.java)
+- [[BOJ JAVA] 11659 구간 합 구하기 4 - 누적 합](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_11659.java)
 
  <b>그래프</b>
  - [[BOJ JAVA] 1753 최단경로 - dijkstra](https://github.com/EuneeChung/Algorithms/blob/master/src/Java_1753.java)
